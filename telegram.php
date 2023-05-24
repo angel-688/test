@@ -1,7 +1,7 @@
 <?php
-$name = $_POST ['user_name'];
+$name = $_POST['user_name'];
 $token = "5674676719:AAEKyLdE2JadnPQH5lyamYgo46OhJWOjR_4";
-$Schat id = "-968208666";
+$chat_id = "-968208666";
 $arr = array(
  'Имя пользователя:' => $name
 );
